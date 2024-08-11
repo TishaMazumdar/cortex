@@ -26,6 +26,7 @@ Follow these steps to get Cortex up and running on your local machine:
 ## 🔗 Useful Links
 
 - **Cortex Website**: [Cortex](https://cortex-delta.vercel.app/)
+- **YouTube Link**: [YouTube Link Demo](https://youtu.be/I21vRCk3sgY)
 
 ## 🤝 Contributing
 
